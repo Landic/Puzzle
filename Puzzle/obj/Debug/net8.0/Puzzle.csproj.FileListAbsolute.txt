@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\bin\Debug\net8.0\Puzzle.exe
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\bin\Debug\net8.0\Puzzle.deps.json
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\bin\Debug\net8.0\Puzzle.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\bin\Debug\net8.0\Puzzle.dll
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\bin\Debug\net8.0\Puzzle.pdb
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\obj\Debug\net8.0\Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\obj\Debug\net8.0\Puzzle.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\obj\Debug\net8.0\Puzzle.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\obj\Debug\net8.0\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\obj\Debug\net8.0\Puzzle.dll
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\obj\Debug\net8.0\refint\Puzzle.dll
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\obj\Debug\net8.0\Puzzle.pdb
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\obj\Debug\net8.0\Puzzle.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Puzzle\Puzzle\obj\Debug\net8.0\ref\Puzzle.dll
